@@ -1,2 +1,3 @@
 New contents
 Add a line
+Another line
